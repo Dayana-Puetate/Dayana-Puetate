@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Dayana</h1>
-<h3 align="center">Una desarrolladora web de Ecuador</h3>
+<h3 align="center">Soy una desarrolladora web de Ecuador</h3>
 
 - 🔭 Actualmente estoy cursando el último semestre de la carrera de **Software**
 
