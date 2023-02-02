@@ -1,6 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">Hola 👋, mi nombre es Dayana</h1>
 <h3 align="center">Soy una desarrolladora web de Ecuador</h3>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <h3 align="center">Contáctame mediante:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/dayanapuetate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dayanapuetate" height="30" width="40" /></a>
